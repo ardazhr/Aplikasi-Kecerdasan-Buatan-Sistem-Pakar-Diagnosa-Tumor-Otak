@@ -1,5 +1,3 @@
-# sispakv2
-
 Aplikasi Sistem Pakar Pendiagnosa Tumor Otak dengan Metode Certainty Factor.
 
 # Petunjuk penggunaan:
